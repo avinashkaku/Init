@@ -1,3 +1,3 @@
 # Init
-First Repository
+First Repository.
 Created first file in GitHub !!
